@@ -1,0 +1,40 @@
+.main-section {
+    background-image: url('../img/img-main.jpeg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
+
+h2 {
+    margin-left: 400px;
+    padding: 2%;
+}
+
+/* .content {
+    display: grid;
+    grid-template-areas: "tarjeta-1 tarjeta-2 tarjeta-3"
+                         "tarjeta-4 tarjeta-5 tarjeta-6";                  
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+    gap: 10px;             
+}
+
+.tarjeta-1 { grid-area: tarjeta-1;}
+.tarjeta-2 { grid-area: tarjeta-2;}
+.tarjeta-3 { grid-area: tarjeta-3;}
+.tarjeta-4 { grid-area: tarjeta-4;}
+.tarjeta-5 { grid-area: tarjeta-5;}
+.tarjeta-6 { grid-area: tarjeta-6;} */
